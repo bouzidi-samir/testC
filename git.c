@@ -9,7 +9,7 @@ int main ()
 
 {
 
-printf(" salut \n");
+printf(" salut monn ami \n");
 
 
 
