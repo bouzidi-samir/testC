@@ -8,12 +8,15 @@ void salutation(void);
 int main ()
 
 {
+	
+	printf("comment t'appelle tu?\n");
+	char prenom[100];
+	scanf("%s",prenom);
 
 
+	salutation();
 
-salutation();
-
-return 0;
+	
 }
 
 
@@ -23,7 +26,7 @@ void salutation(void)
 {
 
 
-printf(" salut monn ami \n");
+	printf(" salut monn ami \n");
 
 }
 
